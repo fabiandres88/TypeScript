@@ -1,9 +1,9 @@
 import ArmourDecorator from './ArmourDecorator';
 import BaseEnemy from './BaseEnemy';
-import Helmetdecorator from './HelmetDecorator';
+import HelmetDecorator from './HelmetDecorator';
 
 let enemy = new BaseEnemy();
-let enemyWithhelmet = new Helmetdecorator(enemy);
+let enemyWithhelmet = new HelmetDecorator(enemy);
 let enemyWithArmour = new ArmourDecorator(enemyWithhelmet);
 let totalDamage = enemyWithArmour.takeDamage();
 

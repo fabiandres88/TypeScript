@@ -18,3 +18,6 @@ The course of basics Typescript contains examples as:
     - Arrays
     - Tuples
     - Enums
+    - Join types
+    - Aliases of types
+    - Literal types

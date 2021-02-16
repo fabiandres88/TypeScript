@@ -38,3 +38,7 @@ The course of basics Typescript contains examples as:
 
 - Optional properties
 - Read only properties
+
+### Interface inheritance
+
+- Extends

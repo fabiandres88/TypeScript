@@ -33,3 +33,8 @@ The course of basics Typescript contains examples as:
 - Optional parameters
 - Flat Array function
 - Type of return
+
+## Interfaces
+
+- Optional properties
+- Read only properties

@@ -21,3 +21,15 @@ The course of basics Typescript contains examples as:
     - Join types
     - Aliases of types
     - Literal types
+
+## Asserts
+
+- < data type >
+- as
+
+## Functions
+
+- Type of parameters
+- Optional parameters
+- Flat Array function
+- Type of return

@@ -48,3 +48,5 @@ The course of basics Typescript contains examples as:
 - Private
 - Private Ecmascript use #
 - Get & Set
+- Inheritance
+- Public & readonly

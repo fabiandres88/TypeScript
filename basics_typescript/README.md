@@ -27,6 +27,12 @@ The course of basics Typescript contains examples as:
 - < data type >
 - as
 
+## Classes
+
+- Private
+- Provate Ecmascript
+- Get & Set
+
 ## Functions
 
 - Type of parameters

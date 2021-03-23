@@ -27,12 +27,6 @@ The course of basics Typescript contains examples as:
 - < data type >
 - as
 
-## Classes
-
-- Private
-- Private Ecmascript use #
-- Get & Set
-
 ## Functions
 
 - Type of parameters
@@ -48,3 +42,9 @@ The course of basics Typescript contains examples as:
 ### Interface inheritance
 
 - Extends
+
+## Classes
+
+- Private
+- Private Ecmascript use #
+- Get & Set

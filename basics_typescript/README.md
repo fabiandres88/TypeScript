@@ -30,7 +30,7 @@ The course of basics Typescript contains examples as:
 ## Classes
 
 - Private
-- Provate Ecmascript
+- Private Ecmascript use #
 - Get & Set
 
 ## Functions
